@@ -1,0 +1,18 @@
+@media (min-width:1024px) {
+    .btn {
+        background-color: transparent;
+        border: 1px solid #2222224D;
+        padding: 10px 48px;
+        font-family: 'Gilroy-Bold', sans-serif;
+        position: relative;
+    }
+
+    .line {
+        width: 23.5px;
+        background-color: #222222;
+        height: 1px;
+        position: absolute;
+        left: -12px;
+        top: 17px;
+    }
+}
