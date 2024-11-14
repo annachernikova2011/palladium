@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; //@ts-ignore
 import s from '../Button/Button.module.css'
 
 export const Button = ({text}) => {

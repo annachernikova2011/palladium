@@ -1,0 +1,27 @@
+@media (min-width:1024px) {
+    .container {
+        margin-top: 135px;
+    }
+
+    .line {
+        height: 1.5px;
+        width: 1100px;
+        background-color: #222222;
+    }
+
+    .text_container {
+        display: flex;
+        justify-content: space-between;
+        padding: 24px 0;
+    }
+
+    .text_bold {
+        font-family: 'Gilroy-Bold', sans-serif;
+        font-size: 14px;
+    }
+
+    .text {
+        font-family: 'Gilroy-Regular', sans-serif;
+        font-size: 14px;
+    }
+}
